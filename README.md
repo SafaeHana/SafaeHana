@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safae Mazozi</h1>
 <h3 align="center">Enthusiastic and dedicated student with a strong passion for Machine Learning and Artificial Intelligence. Possesses a solid foundation in relevant technical and analytical skills through coursework and hands-on projects. Eager to contribute to innovative ML/AI projects .</h3>
- ![GIF](https://github.com/SafaeHana/SafaeHana/assets/69175831/b38e8a6c-7229-4e46-b3a9-b3bc9bee3d98)
-
+<img align="right" alt="it's me !" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 - 📫 How to reach me **mazozisafae2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
