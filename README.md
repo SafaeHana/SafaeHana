@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safae Mazozi</h1>
 <h3 align="center">Enthusiastic and dedicated student with a strong passion for Machine Learning and Artificial Intelligence. Possesses a solid foundation in relevant technical and analytical skills through coursework and hands-on projects. Eager to contribute to innovative ML/AI projects .</h3>
-
-- 📝 I regularly write articles on [https://www.linkedin.com/posts/safae-mazozi-5a8b20234_the-transformer-architecture-revolutionizing-activity-7093627154004865025-Bcfo?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/safae-mazozi-5a8b20234_the-transformer-architecture-revolutionizing-activity-7093627154004865025-Bcfo?utm_source=share&utm_medium=member_desktop)
+<img align="right" alt="it's me !" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"></img>
 
 - 📫 How to reach me **mazozisafae2000@gmail.com**
 
